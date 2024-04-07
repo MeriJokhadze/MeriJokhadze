@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @MeriJokhadze
 - 👀 I’m interested in Web Development 
-- 🌱 currently trying to improve my skills in JavaScript and other front-end topics  
+- 🌱 currently trying to improve my skills in Ux writing and other front-end topics  
 - 💞️ looking to collaborate on anything about Web development
 - 📫 to reach me here is my Mail: jokhadzemeri1@gmail.com 
 
